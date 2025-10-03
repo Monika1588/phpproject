@@ -1,0 +1,62 @@
+[
+    {
+        "user": "pooja",
+        "item": "marigold",
+        "exchange_with": "lavender",
+        "status": "Pending"
+    },
+    {
+        "user": "monika",
+        "item": "marigold",
+        "exchange_with": "tulsi",
+        "status": "Pending"
+    },
+    {
+        "user": "siya",
+        "item": "spider",
+        "exchange_with": "lavender",
+        "status": "Approved"
+    },
+    {
+        "user": "riya",
+        "item": "zz",
+        "exchange_with": "jasmine",
+        "status": "Pending"
+    },
+    {
+        "user": "Monika",
+        "item": "snake",
+        "exchange_with": "lavender",
+        "status": "Approved"
+    },
+    {
+        "user": "kalpana",
+        "item": "jasmine",
+        "exchange_with": "tulsi",
+        "status": "Approved"
+    },
+    {
+        "user": "pooja",
+        "item": "marigold",
+        "exchange_with": "tulsi",
+        "status": "Approved"
+    },
+    {
+        "user": "pooja",
+        "item": "marigold",
+        "exchange_with": "tulsi",
+        "status": "Approved"
+    },
+    {
+        "user": "tia",
+        "item": "spider",
+        "exchange_with": "jasmine",
+        "status": "Approved"
+    },
+    {
+        "user": "tia",
+        "item": "spider",
+        "exchange_with": "jasmine",
+        "status": "Pending"
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1,
+        "title": "g",
+        "description": "gge",
+        "created_at": "2025-03-06 11:00:38"
+    },
+    {
+        "id": 2,
+        "title": "hdh",
+        "description": "kshfklsjfskjd,",
+        "created_at": "2025-03-06 11:00:54"
+    },
+    {
+        "id": 3,
+        "title": "dfsfwegw",
+        "question": "efge",
+        "answers": [
+            {
+                "id": 1,
+                "text": "fsfwe",
+                "likes": 0
+            },
+            {
+                "id": 2,
+                "text": "fgrd",
+                "likes": 0
+            },
+            {
+                "id": 3,
+                "text": "ergerge",
+                "likes": 0
+            },
+            {
+                "id": 4,
+                "text": "wfwf",
+                "likes": 0
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "erfw",
+        "question": "wefw",
+        "answers": []
+    },
+    {
+        "id": "67c976f2457f9",
+        "title": "wdwsf",
+        "question": "sdsf",
+        "answers": [
+            {
+                "id": "67c976f853e8b",
+                "text": "sdfsffe",
+                "likes": 0
+            }
+        ]
+    },
+    {
+        "id": "67c977fc7b236",
+        "title": "wdwsf",
+        "question": "kn.kmn",
+        "answers": [
+            {
+                "id": "67c9780336171",
+                "text": ",bmn,mn",
+                "likes": 0
+            }
+        ]
+    },
+    {
+        "id": "67c97a3979027",
+        "title": "ksjn",
+        "question": "mnsbdmad",
+        "category": "general",
+        "likes": 0,
+        "comments": []
+    },
+    {
+        "id": "67c97a79c0cc3",
+        "title": "aaaa",
+        "question": "bbbb",
+        "category": "general",
+        "likes": 0,
+        "comments": []
+    }
+]
